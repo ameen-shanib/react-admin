@@ -85,7 +85,7 @@ const BasicForms = () => {
     CFormGroup >
     <
     CInputHidden id = "id"  value={id}/ >
-    <
+    
     <
     CLabel htmlFor = "vat" > Restaurant Place < /CLabel> <
     CInput id = "place"
