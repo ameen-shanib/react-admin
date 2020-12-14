@@ -42,12 +42,9 @@ const resturentData = useSelector(state => state.resturentData||{});
             </CCardBody>
           </CCard>
         </CCol>
-      </CRow>
-
-
-       
+      </CRow>       
     </>
   )
-}
+
 
 export default Tables
